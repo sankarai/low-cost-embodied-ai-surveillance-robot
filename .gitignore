@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Current Python .gitignore
+--------------------------------
+[leave everything exactly as it is]
+
+ADD THIS AT THE END
+--------------------------------
+# Project-generated robot outputs
+patrol_yolo_events/
+captures/
+screenshots/
+videos/
+logs/
+
+# Local credentials / machine-specific configuration
+wifi_config.h
+secrets.h
+config_local.py
+*_local.py
+
+# Robot/network local settings
+*.local
+
+# Large media/raw outputs
+*.mp4
+*.avi
+*.mov
+*.mkv
