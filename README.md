@@ -6,6 +6,14 @@ Low-cost embodied AI robot for autonomous indoor surveillance using ESP32, IMU-b
 
 This project demonstrates a low-cost embodied AI robot for indoor surveillance, autonomous patrol, obstacle recovery, multiview scanning, and real-time person detection. The platform combines an ESP32-based mobile robot, onboard sensing, wireless video streaming, and Python-based computer vision processing to investigate practical embodied AI concepts using affordable hardware.
 
+## System Architecture
+
+![System Architecture](System_architecture.png)
+
+## Patrol Workflow
+
+![Patrol Workflow](Patrol_workflow.png)
+
 ## Key Features
 
 * ESP32-based robot control
