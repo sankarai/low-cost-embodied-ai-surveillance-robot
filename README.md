@@ -211,7 +211,7 @@ Verify that:
 Start the patrol application:
 
 ```bash
-python robot_patrol_multiview_scan_v3.py
+python robot_patrol_multiview_scan_v4.py
 ```
 
 The controller will:
@@ -235,7 +235,7 @@ The patrol controller supports interactive keyboard control during operation.
 
 The controller checks for keyboard commands at safe execution points during the patrol loop. When paused, all robot motion is stopped until a resume or quit command is received.
 
-In addition to manual pausing, the software can be configured to pause automatically after image capture events by enabling the `AUTO_PAUSE_AFTER_PATROL_PHOTO` configuration parameter. This capability is useful when collecting training data, inspecting captured images, or debugging navigation behaviour.
+In addition to manual pausing, the software can be configured to pause automatically after image capture events by enabling the `AUTO_PAUSE_AFTER_SCAN_AND_DETECT` configuration parameter. This capability is useful when collecting training data, inspecting captured images, or debugging navigation behaviour.
 
 These controls allow the user to safely monitor, interrupt, and resume autonomous patrol operations without restarting the software.
 
