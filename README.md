@@ -50,6 +50,7 @@ This repository contains a mixture of original and third-party software componen
 ## Repository Status
 
 This repository is provided for educational and research purposes. Users should review the licence terms associated with Freenove and other third-party components before redistribution or commercial use.
+
 ## Hardware Requirements
 
 The following hardware was used in the development and testing of the system:
@@ -63,7 +64,9 @@ The following hardware was used in the development and testing of the system:
 * Servo motor for sensor/camera scanning
 * Four-wheel drive motor platform
 
-![Hardware Platform with retrofitted IMU MPU6050](Robot Platform with IMU.png)
+## Hardware Platform
+
+![Robot Platform with IMU](Robot_Platform_with_IMU.png)
 
 ### Additional Hardware
 
