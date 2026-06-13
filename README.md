@@ -64,8 +64,6 @@ The following hardware was used in the development and testing of the system:
 * Servo motor for sensor/camera scanning
 * Four-wheel drive motor platform
 
-## Hardware Platform
-
 ![Robot Platform with IMU](Robot_Platform_with_IMU.png)
 
 ### Additional Hardware
