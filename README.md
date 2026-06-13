@@ -246,3 +246,8 @@ These controls allow the user to safely monitor, interrupt, and resume autonomou
 
 Press the designated keyboard interrupt key (or terminate the application) to stop the patrol operation safely.
 
+## Example Person Detection Results
+
+Example detections obtained during autonomous patrol operations using the onboard camera and a YOLO-based object detector.
+
+![Person Detection Results](Multi_View_Detection_Example.png)
