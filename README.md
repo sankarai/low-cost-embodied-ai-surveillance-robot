@@ -25,10 +25,6 @@ This project demonstrates a low-cost embodied AI robot for indoor surveillance, 
 * Multiview camera scanning
 * Autonomous obstacle recovery
 
-## Hardware Platform
-
-![Hardware Platform](Robot_Hardware_Platform.png)
-
 ## Attribution
 
 This project is based on the Freenove 4WD Smart Car Kit (FNK0053). Several ESP32 firmware components are derived from or based on software supplied with the Freenove platform and remain subject to the original Freenove licence terms.
@@ -66,6 +62,8 @@ The following hardware was used in the development and testing of the system:
 * Ultrasonic distance sensor
 * Servo motor for sensor/camera scanning
 * Four-wheel drive motor platform
+
+![Hardware Platform](Robot_Hardware_Platform.png)
 
 ### Additional Hardware
 
