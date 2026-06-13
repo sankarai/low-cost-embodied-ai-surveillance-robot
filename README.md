@@ -8,7 +8,8 @@ This project demonstrates a low-cost embodied AI robot for indoor surveillance, 
 
 ## Demonstration Video
 
-YouTube Short:
+A short demonstration of autonomous patrol, multiview scanning, and YOLO-based person detection is available here:
+
 https://www.youtube.com/shorts/7pc85A9Bcn0
 
 ## System Architecture
